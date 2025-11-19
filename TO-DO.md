@@ -19,3 +19,4 @@ STEP 1
 
 
 STEP 2 
+    - New topology (add 2 customers & 3 Producers to Ex1)
