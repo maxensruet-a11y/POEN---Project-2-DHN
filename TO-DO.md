@@ -21,7 +21,7 @@ STEP 1
 STEP 2 
     - New topology (add 5 customers & 3 Producers to STEP 1)    (Max - DONE)
     - Choose 5 more loads                                       (Amey&Jet - DONE)
-    - New pipe types (5diff)                                    (All)
+    - New pipe types (5diff)                                    (All - DONE)
     - Producers types modelisation                              (All)
 
     - Questions : 
