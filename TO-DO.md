@@ -7,7 +7,7 @@ STEP 1
     - Choosing network topology (size, lenght, type of pipes)   (Topology of Ex-1 - DONE)
     - Research Pipes technical parameters                       (DONE)
     - Modify Pheat max customers + load demand                  (DONE)
-    - Research Pipes "investment parameters" + modify files     ()         
+    - Research Pipes "investment parameters" + modify files     (DONE)         
     - Why is the optimizer not working ?                        (DONE)
 
     - Questions :                                               (DONE)
