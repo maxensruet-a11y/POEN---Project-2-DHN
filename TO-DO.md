@@ -8,9 +8,9 @@ STEP 1
     - Research Pipes technical parameters                       (DONE)
     - Modify Pheat max customers + load demand                  (DONE)
     - Research Pipes "investment parameters" + modify files     ()         
-    - Why is the optimizer not working ?                        (Done)
+    - Why is the optimizer not working ?                        (DONE)
 
-    - Questions :
+    - Questions :                                               (DONE)
 1) Based on the needed capacity, the optimizer chooses the pipe-types which will have a minimum cost to create and operate.
 
 2) DN-30 is more efficient and less expensive but the capacity is much lesser. (add figures)
@@ -19,9 +19,10 @@ STEP 1
 
 
 STEP 2 
-    - New topology (add 5 customers & 3 Producers to STEP 1)    ()
-    - New pipe types (5diff)                                    ()
-    - Producers types                                           ()
+    - New topology (add 5 customers & 3 Producers to STEP 1)    (Max - DONE)
+    - Choose 5 more loads                                       (Amey&Jet - DONE)
+    - New pipe types (5diff)                                    (All)
+    - Producers types modelisation                              (All)
 
     - Questions : 
 1)
